@@ -1,5 +1,5 @@
 {
-  "intro": "Hej",
+  "intro": "Hello, I'm Arturo, your next Software Engineer.",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
@@ -8,15 +8,15 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": " ",
+    "highlight": "",
+    "suffix": ""
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "A Software Engineer who cares deeply about the experiences users have with his applications. For me, the most rewarding part of my work is helping to solve problems. My passion to better my craft by learning new technologies, is what makes me an exceptional and growing Software Engineer.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "from": ["LinkedIn", "Twitter", "Github", "Mail"],
+    "showIcons": true
   }
 }

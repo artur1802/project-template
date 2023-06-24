@@ -2,40 +2,67 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "",
+      "title": "Recipe App",
+      "description": "FullStack web application that seamlessly integrates a user-friendly interface with the robust capabilities of the MERN stack (MongoDB, Express, React, and Node.js). This application empowers users to effortlessly create, delete, and save their favorite food recipes, all while enjoying the convenience of user registration and authentication using JSON Web Tokens (JWT).",
+     
+      "tags": ["MongoDB", "Express.js","React.js","Node.js","Tailwind CSS"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/recipes.jpg",
+        "alt": "Recipe app",
+        "linkTo": "https://github.com/artur1802/RecipesWeb"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/artur1802/RecipesWeb"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://dantesrecipe.netlify.app/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "",
+      "title": "Marvel characters",
+      "description": "Marvel Character Information Website: Dive into the Marvel universe with our interactive web application! I designed and developed this feature-rich platform that allows users to explore detailed information about their favorite Marvel characters. With a sleek and user-friendly interface, users can easily search for characters, access their names, descriptions, and discover the series in which they have appeared",
+      "tags": ["React.js", "CSS3","HTML5"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/marvel.jpg",
         "alt": "Extendable Layout"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/artur1802/Marvel-Characters"
+        },
+        {
+          "type": "external",
+          "url": "https://marvelsearcher.netlify.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "Pokemon Searcher (Pokedex)",
+      "description": "The app fetches data from the Pokémon API and dynamically presents Pokémon information, including their names, types, abilities, and base stats. Each Pokémon entry is accompanied by an image representing the Pokémon.Users can search for specific Pokémon by their names. The app provides a search bar where users can enter a Pokémon's name.",
+      "tags": ["Javascript","CSS3", "HTML5"],
+      "image": {
+        "src": "../../images/poke.jpg",
+        "alt": "Recipe app",
+        "linkTo": "https://github.com/artur1802/Pokedex-project"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/artur1802/Pokedex-project"
+        },
+        {
+          "type": "external",
+          "url": "https://pokedexseries.netlify.app/"
         }
       ]
     }
@@ -43,6 +70,6 @@
   "button": {
     "visible": true,
     "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "url": "https://github.com/artur1802"
   }
 }
