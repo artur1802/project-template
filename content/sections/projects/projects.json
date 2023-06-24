@@ -10,7 +10,7 @@
       "image": {
         "src": "../../images/recipes.jpg",
         "alt": "Recipe app",
-        "linkTo": "https://github.com/artur1802/RecipesWeb"
+        "linkTo": "https://dantesrecipe.netlify.app/"
       },
       "links": [
         {
@@ -31,7 +31,8 @@
       "tags": ["React.js", "CSS3","HTML5"],
       "image": {
         "src": "../../images/marvel.jpg",
-        "alt": "Extendable Layout"
+        "alt": "Extendable Layout",
+        "linkTo": "https://marvelsearcher.netlify.app/"
       },
       "links": [
         {
@@ -53,7 +54,7 @@
       "image": {
         "src": "../../images/poke.jpg",
         "alt": "Recipe app",
-        "linkTo": "https://github.com/artur1802/Pokedex-project"
+        "linkTo": "https://pokedexseries.netlify.app/"
       },
       "links": [
         {
